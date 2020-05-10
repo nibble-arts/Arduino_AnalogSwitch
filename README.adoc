@@ -1,0 +1,25 @@
+= Analog Switch library for Arduino =
+
+When in an Arduino project digital input ports are short, this library may be a solution. A tap changer can be used on an analogue input line. The pins of the tap changer have to be connected by resistors and the ends must be connected to 5 City and GND. After learning up to 16 analog values the get() method returns the internet number of the corresponding switch position.
+
+For more information about this library please visit us at
+http://nibble-arts.org
+
+== License ==
+
+Copyright (c) Nibble-arts. All right reserved.
+Copyright (c) Thomas Winkler. All right reserved.
+
+This library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation; either
+version 2.1 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public
+License along with this library; if not, write to the Free Software
+Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
